@@ -15,4 +15,4 @@ The gh-pages branch serves as the experimental staging area for prototype builds
  Project Links:
 ----------------
 
-Project wiki: [https://wiki.mozilla.org/GenOpen https://wiki.mozilla.org/GenOpen]
+Project wiki: https://wiki.mozilla.org/GenOpen
